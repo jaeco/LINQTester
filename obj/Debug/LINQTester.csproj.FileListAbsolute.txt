@@ -1,0 +1,8 @@
+D:\James Corkran\Documents\GitHub\LINQTester\bin\Debug\LINQTester.exe.config
+D:\James Corkran\Documents\GitHub\LINQTester\bin\Debug\LINQTester.exe
+D:\James Corkran\Documents\GitHub\LINQTester\bin\Debug\LINQTester.pdb
+D:\James Corkran\Documents\GitHub\LINQTester\bin\Debug\LINQRefresher.dll
+D:\James Corkran\Documents\GitHub\LINQTester\bin\Debug\LINQRefresher.pdb
+D:\James Corkran\Documents\GitHub\LINQTester\obj\Debug\LINQTester.csprojResolveAssemblyReference.cache
+D:\James Corkran\Documents\GitHub\LINQTester\obj\Debug\LINQTester.exe
+D:\James Corkran\Documents\GitHub\LINQTester\obj\Debug\LINQTester.pdb
